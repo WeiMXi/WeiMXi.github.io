@@ -129,8 +129,8 @@ layout: single
                 <div class="card-body text-center">
                     <h3 class="card-title">缪子和中微子联合分析</h3>
                     <p class="card-text">
-                        刘何生<br>
-                        张景怡<br>
+                        刘和生<br>
+                        张景颐<br>
                         冼 亮
                     </p>
                 </div>
