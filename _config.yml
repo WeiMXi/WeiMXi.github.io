@@ -13,7 +13,7 @@ title                    : "SMOOTH | Tang's research group@SYSU"
 title_separator          : "-"
 name                     : &name "SMOOTH"
 description              : &description "Tang's research group@SYSU"
-url                      : https://WeiMXi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.smooth-sysu.cn # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WeiMXi/WeiMXi.github.io"
 
