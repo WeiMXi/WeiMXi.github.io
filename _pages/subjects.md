@@ -28,12 +28,12 @@ layout: single
     <div class="card mb-5">
         <div class="card-body">
             <h2 class="card-title mt-1">缪子前沿科学与技术应用实验室——SMOOTH的研究进展</h2>
-            <ul class="list-unstyled">
-                <li>缪子成像仪</li>
-                <li>缪子自旋谱仪</li>
-                <li>加速器缪子束流监测器</li>
-                <li>宇生缪子径迹探测系统</li>
-            </ul>
+            <p class="card-text">
+                缪子成像仪<br>
+                缪子自旋谱仪<br>
+                加速器缪子束流监测器<br>
+                宇生缪子径迹探测系统
+            </p>
             <div class="row">
                 <div class="col-md-6">
                     <img src="/images/subjects/tangjian-achive-6.png" class="img-fluid rounded mb-3" alt="SMOOTH 研究进展">
@@ -61,22 +61,6 @@ layout: single
             </div>
         </div>
     </div>
-    <!-- 依托“天河二号”，搭建粒子物理实验大数据平台 -->
-    <div class="card mb-5">
-        <div class="card-body">
-            <h2 class="card-title mt-1">依托“天河二号”，搭建粒子物理实验大数据平台</h2>
-            <p class="card-text">
-                虚拟化和容器化技术<br>
-                大批量的模拟和重建分析<br>
-                国际合作实验缪子对撞机预研
-            </p>
-            <div class="row">
-                <div class="col-md-12">
-                    <img src="/images/subjects/tangjian-achive-4.1.png" class="img-fluid rounded" alt="天河二号">
-                </div>
-            </div>
-        </div>
-    </div>
     <!-- 突破低本底粒子探测器关键技术，应用于国际大科学工程—江门中微子实验 -->
     <div class="card mb-5">
         <div class="card-body">
@@ -95,6 +79,22 @@ layout: single
                         <source src="http://videosz.cas.cn/masvod/public/2024/11/21/20241121_1934ca7ccda_r36_1200k.mp4" type="video/mp4">
                         您的浏览器不支持视频播放。
                     </video>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 依托超级计算机，搭建粒子物理实验大数据平台 -->
+    <div class="card mb-5">
+        <div class="card-body">
+            <h2 class="card-title mt-1">依托超级计算机，搭建粒子物理实验大数据平台</h2>
+            <p class="card-text">
+                虚拟化和容器化技术<br>
+                大批量的模拟和重建分析<br>
+                国际合作实验缪子对撞机预研
+            </p>
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="/images/subjects/tangjian-achive-4.1.png" class="img-fluid rounded" alt="天河二号">
                 </div>
             </div>
         </div>

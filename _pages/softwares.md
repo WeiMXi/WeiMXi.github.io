@@ -23,11 +23,11 @@ layout: single
     <h2 class="text-center mb-4">计算平台</h2>
     <div class="row justify-content-center align-items-center">
         <div class="col-md-4 mb-4">
-            <a href="https://github.com/zhao-shihan/MACE" class="text-decoration-none">
+            <!-- <a href="https://github.com/zhao-shihan/MACE" class="text-decoration-none"> -->
                 <div class="card">
                     <img src="/images/softwares/MACE_logo_v2.svg" class="card-img-top" alt="MACE">
                 </div>
-            </a>
+            <!-- </a> -->
         </div>
         <div class="col-md-4 mb-4">
             <a href="/softwares/th-2/" class="text-decoration-none">
