@@ -1,0 +1,279 @@
+- id: 55
+  year: 2024
+  name: YUAN Yi
+  destination: "研究生：中山大学物理学院"
+
+- id: 54
+  year: 2024
+  name: FENG ChenCheng
+  destination: "直博生：北京大学物理学院"
+
+- id: 53
+  year: 2024
+  name: RUAN Tianlong
+  destination: "直博生：复旦大学物理学院"
+
+- id: 52
+  year: 2024
+  name: LING Jiacheng
+  destination: "研究生：德国海德堡大学"
+
+- id: 51
+  year: 2024
+  name: QI Songran
+  destination: "研究生：中山大学物理学院"
+
+- id: 50
+  year: 2023
+  name: "ZHAO Shihan"
+  destination: "研究生：中山大学物理学院"
+
+- id: 49
+  year: 2023
+  name: "CHEN Hongkun"
+  destination: "研究生：中山大学物理学院"
+
+- id: 48
+  year: 2023
+  name: "LIU Xiaopeng"
+  destination: "研究生：中国科学院国家空间科学中心"
+
+- id: 47
+  year: 2023
+  name: "LI Jingtong"
+  destination: "研究生：北京大学"
+
+- id: 46
+  year: 2023
+  name: "JIANG Hui"
+  destination: "研究生：中国科学院高能物理研究所"
+
+- id: 45
+  year: 2022
+  name: "LIN Haixing"
+  destination: "研究生：中山大学物理学院"
+
+- id: 44
+  year: 2022
+  name: "NING Yunsong"
+  destination: "研究生：中山大学物理学院"
+
+- id: 43
+  year: 2022
+  name: "LIAO Jian"
+  destination: "研究生：北京大学物理学院"
+
+- id: 42
+  year: 2022
+  name: "ZHAO Xianhe"
+  destination: "研究生：中国科技大学物理学院"
+
+- id: 41
+  year: 2022
+  name: "DU Xi Er"
+  destination: "研究生：中国科学院物理研究所"
+
+- id: 40
+  year: 2021
+  name: "CHEN Xiaohao"
+  destination: "研究生：香港中文大学"
+
+- id: 39
+  year: 2021
+  name: "WANG Xintong"
+  destination: "研究生：中山大学物理学院"
+
+- id: 38
+  year: 2021
+  name: "XU Shuo"
+  destination: "研究生：清华大学天文系"
+
+- id: 37
+  year: 2021
+  name: "ZHANG Binglong"
+  destination: "研究生：中山大学物理学院"
+
+- id: 36
+  year: 2021
+  name: "LEI Zhanhong"
+  destination: "研究生：中山大学物理学院"
+
+- id: 35
+  year: 2021
+  name: "LI Rui"
+  destination: "研究生：上海交通大学/李政道研究所，高能物理实验"
+
+- id: 34
+  year: 2020
+  name: "MAO Yuzhe"
+  destination: "工作：科研助理 -->工业界"
+
+- id: 33
+  year: 2020
+  name: "FENG Weijie"
+  destination: "研究生：Eidgenössische Technische Hochschule Zürich (ETH, Switzerland), Master"
+
+- id: 32
+  year: 2020
+  name: "XU Zifeng"
+  destination: "研究生：南京大学，高能物理实验"
+
+- id: 31
+  year: 2020
+  name: "YANG Hang"
+  destination: "研究生：中山大学物理学院"
+
+- id: 30
+  year: 2020
+  name: "ZHAO Wenwen"
+  destination: "公务员：安徽省定向选调生，芜湖市投资促进中心"
+
+- id: 29
+  year: 2020
+  name: "ZHENG Yuekun"
+  destination: "研究生：中国科学院苏州生物医学工程技术研究所"
+
+- id: 28
+  year: 2020
+  name: "LUO Hao"
+  destination: "研究生：The University of Edinburgh, UK."
+
+- id: 27
+  year: 2020
+  name: "MA Yuyang"
+  destination: "研究生：英国留学"
+
+- id: 26
+  year: 2020
+  name: "LIANG Shiyi"
+  destination: "研究生：中国科学院高能物理研究所"
+
+- id: 25
+  year: 2020
+  name: "CHEN Gewei"
+  destination: "研究生：上海交通大学"
+
+- id: 24
+  year: 2020
+  name: "YU Tao"
+  destination: "工作：科研助理，2022年考研进组"
+
+- id: 23
+  year: 2020
+  name: "ZHOU Yixing"
+  destination: "研究生：日本九州大学"
+
+- id: 22
+  year: 2020
+  name: "XU Yixin"
+  destination: "研究生：California Institute of Technology, Ph.D offer."
+
+- id: 21
+  year: 2019
+  name: "WU Yuyang"
+  destination: "研究生：复旦大学，材料物理"
+
+- id: 20
+  year: 2019
+  name: "CAO Guangjie"
+  destination: "就业：TPLink公司"
+
+- id: 19
+  year: 2019
+  name: "SHENG Zishuai"
+  destination: "研究生：中山大学航空航天学院"
+
+- id: 18
+  year: 2019
+  name: "ZHUO Danyuan"
+  destination: "就业：工业界"
+
+- id: 17
+  year: 2019
+  name: "LI Dexin"
+  destination: "研究生：北京大学"
+
+- id: 16
+  year: 2019
+  name: "XIE Tian"
+  destination: "研究生：University of Wisconsin–Madison,PhD."
+
+- id: 15
+  year: 2019
+  name: "LU Yifan"
+  destination: "转学：Michigen State University"
+
+- id: 14
+  year: 2018
+  name: "ZHANG Yibing"
+  destination: "研究生：University of Sussex,PhD."
+
+- id: 13
+  year: 2018
+  name: "ZHONG Xiuwen"
+  destination: "就业：某通讯公司"
+
+- id: 12
+  year: 2018
+  name: "LIU Peizhao"
+  destination: "就业：工业界"
+
+- id: 11
+  year: 2018
+  name: "LUO Xin"
+  destination: "研究生：上海交通大学光学工程，硕士"
+
+- id: 10
+  year: 2018
+  name: "ZHANG Pengshuai"
+  destination: "就业：教育机构，后考研升学，就读于中山大学物理学院"
+
+- id: 9
+  year: 2018
+  name: "YE Peijun"
+  destination: "研究生：中山大学电子与信息工程学院"
+
+- id: 8
+  year: 2018
+  name: "QIAO Muxin"
+  destination: "研究生：Houston University, Ph.D"
+
+- id: 7
+  year: 2018
+  name: "LIAO Zhongkun"
+  destination: "研究生：中山大学电子与信息工程学院"
+
+- id: 6
+  year: 2018
+  name: "CAI Jiefan"
+  destination: "研究生：中山大学电子与信息工程学院光学"
+
+- id: 5
+  year: 2018
+  name: "YANG Chao"
+  destination: "研究生：Ohio State University, Ph.D"
+
+- id: 4
+  year: 2017
+  name: "WANG Xiangyue"
+  destination: "研究生：中山大学物理学院"
+
+- id: 3
+  year: 2017
+  name: "XIONG Chenwei"
+  destination: "研究生：中山大学中法核工程学院"
+
+- id: 2
+  year: 2017
+  name: "LV Zesheng"
+  destination: "研究生：中山大学材料学院"
+
+- id: 1
+  year: 2017
+  name: "YANG Zhuohui"
+  destination: "研究生：中山大学电信学院"
+
+- id: 0
+  year: 2017
+  name: "ZHENG Shaocong"
+  destination: "就业：工业界"
