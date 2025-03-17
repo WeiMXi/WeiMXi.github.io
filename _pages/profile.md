@@ -85,7 +85,7 @@ custom_js: /assets/js/award.js
 
 
 * 广东省自然科学基金面上项目(2025.1-2027.12)，主持。
-* 校级重大科研平台预研项目(2024.12-2025.12)，主持人
+* 校级重大科研平台预研项目(2024.12-2025.12)，主持。
 * 国家自然科学基金项目理论物理专款前沿引领项目(2024.1-2027.12)，课题负责人。
 * 广州市自然科学基金领航项目(2024.1-2026.12)，主持。
 * 高校业务费交叉学科重点专项(2023.1-2025.12)，主持。
@@ -156,6 +156,7 @@ custom_js: /assets/js/award.js
     <li><a href="https://arxiv.org/abs/2502.10702">Tensor interaction in coherent elastic neutrino-nucleus scattering.</a>  e-Print: 2502.10702 [hep-ph]</li>
     <li><a href="https://arxiv.org/abs/2410.18817">Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE).</a> e-Print: 2410.18817 [hep-ex]</li>
     <li><a href="https://arxiv.org/abs/2408.17114">Design of a CsI(Tl) Calorimeter for Muonium-to-Antimuonium Conversion Experiment, Siyuan Chen, Shihan Zhao, Weizhi Xiong, Ye Tian, Hui Jiang, Jiacheng Ling, Shishe Wang, <b>Jian Tang</b>.</a> <b>Front. Phys.</b>, 2025, 20(3): 035202</li>
+    <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0969806X24006856">Enhancing plastic scintillator performance through advanced injection molding techniques, Jiahao Zhong, Nouman Ali Shah, Jian Zhou, <b>Jian Tang</b>,</a>  <b>Radiation Physics and Chemistry</b>, (2025), 226, 112193.</li>
     <li><a href="https://arxiv.org/abs/2401.00222">Optimization of muonium yield in perforated silica aerogel, Shihan Zhao, <b>Jian Tang</b>.</a> <b>Phys.Rev.D</b> 109 (2024) 7, 072012</li>
     <li><a href="https://link.springer.com/article/10.1007/s41365-024-01442-0">Development of a scintillating-fiber-based beam monitor for the coherent muon-to-electron transition experiment, Xu, Yu and Ning, Yun-Song and Qin, Zhi-Zhen and Teng, Yao and Feng, Chang-Qing and <b>Tang, Jia</b>n and Chen, Yu and Fukao, Yoshinori and Mihara, Satoshi and Oishi, Kou.</a> <b>Nucl.Sci.Tech.</b>  35 (2024) 4, 79</li>
     <li><a href="https://link.springer.com/article/10.1007/JHEP12(2024)074">Dark matter, CEνNS and neutrino new physics scrutinized by a statistical method in Xenon-based experiments, <b>Jian Tang</b> and Bing-Long Zhang</a>. <b>JHEP</b> 12 (2024) 074</li>
@@ -167,7 +168,7 @@ custom_js: /assets/js/award.js
     <li><a href="https://iopscience.iop.org/article/10.1088/1572-9494/ac5245">Precision measurements and tau neutrino physics in a future accelerator neutrino experiment, <b>Jian Tang</b>, Sampsa Vihonen and Yu Xu.</a> <b>Communications in Theoretical Physics</b> 74 (2022) 3, 035201</li>
     <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0168900222006982?via%3Dihub">MuGrid: A scintillator detector towards cosmic muon absorption imaging, Hang Yang, Guang Luo, Tao Yu, Shihan Zhao, Biying Hu, Zhencheng Huang, Han Shen, Lili Yang, Yu Chen, <b>Jian Tang</b>.</a>    <b>Nucl.Part.Phys.Proc.</b> 344 (2024) 27-30, Nucl.Instrum.Meth.A 1042 (2022) 167402</li>
 	<li><a href="https://arxiv.org/abs/2102.00758"> Probing the doubly-charged Higgs with Muonium to Antimuonium Conversion Experiment, Chengcheng Han, Da Huang, <b>Jian Tang*</b>, Yu Zhang</a>. <b>Phys.Rev.D</b> 103 (2021) 5, 055023 </li>
-	<li><a href="https://arxiv.org/abs/2008.07116"> Constraints on cosmic-ray boosted DM in CDEX-10, Zhan-Hong Lei, <b>Jian Tang</b>, Bing-Long Zhang, arXiv: 2008.07116 [hep-ph]</a>. </li>
+	<li><a href="https://iopscience.iop.org/article/10.1088/1674-1137/ac68da"> Constraints on cosmic-ray boosted DM in CDEX-10, Zhan-Hong Lei, <b>Jian Tang</b>, Bing-Long Zhang</a>. <b>Chin.Phys.C</b> 46 (2022) 8, 085103</li>
 	<li><a href="https://arxiv.org/abs/2011.14292"> Non-standard interactions in SMEFT confronted with terrestrial neutrino experiments, Yong Du, Hao-Lin Li, <b>Jian Tang</b>, Sampsa Vihonen, Jiang-Hao Yu, arXiv: 2011.14292 [hep-ph]</a>.  <b>JHEP</b> 03 (2021), 019</li>
 	<li><a href="https://arxiv.org/abs/2008.09730"> Global oscillation data analysis on the $3\nu$ mixing without unitarity, Zhuojun Hu, Jiajie Ling, <b>Jian Tang</b>, TseChun Wang, arXiv: 2008.09730 [hep-ph]</a>. <b>JHEP</b> 01 (2021) 124</li>
 	<li><a href="https://arxiv.org/abs/1911.08897"> Spin coating of TPB film on acrylic substrate and measurement of its wavelength shifting efficiency, Hang Yang, Zi-Feng Xu, <b>Jian Tang</b>, Yi Zhang, arXiv: 1911.08897 [physics.ins-det]</a>. <b>Nucl.Sci.Tech.</b> 31 (2020) 3, 28</li>	
