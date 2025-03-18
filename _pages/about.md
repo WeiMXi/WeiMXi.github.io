@@ -48,7 +48,7 @@ custom_js:
               </a>
             </div>
             <div class="carousel-caption d-none d-md-block">
-                <h5>Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE)</h5>
+                <h5 class="mt-1">Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE)</h5>
                 <!-- <p>Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE)</p> -->
             </div>
         </div>
@@ -60,7 +60,7 @@ custom_js:
               </a>
             </div>
             <div class="carousel-caption d-none d-md-block">
-                <h5>Design of a CsI(Tl) Calorimeter for Muonium-to-Antimuonium Conversion Experiment</h5>
+                <h5 class="mt-1">Design of a CsI(Tl) Calorimeter for Muonium-to-Antimuonium Conversion Experiment</h5>
                 <!-- <p>这是第二张图片的描述文字。</p> -->
             </div>
         </div>
@@ -72,7 +72,7 @@ custom_js:
               </a>
             </div>
             <div class="carousel-caption d-none d-md-block">
-                <h5>Tensor interaction in coherent elastic neutrino-nucleus scattering</h5>
+                <h5 class="mt-1">Tensor interaction in coherent elastic neutrino-nucleus scattering</h5>
                 <!-- <p>这是第三张图片的描述文字。</p> -->
             </div>
         </div>

@@ -64,7 +64,25 @@ layout: single
     </div>
 </div>
 
+## 博士研究生
+
+<div class="container mt-3 mb-4">
+    <div class="row">
+        <!-- 左边列 -->
+        <div class="col-md-6">
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 陈思远（2023.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 孙铭辰（2022.9—now）</p>
+        </div>
+        <!-- 右边列 -->
+        <div class="col-md-6">
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 宁云松（2022.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 张炳隆（2021.9—now）</p>
+        </div>
+    </div>
+</div>
+
 ## 硕士研究生
+
 <div class="container mt-3 mb-4">
     <div class="row">
         <!-- 左边列 -->
