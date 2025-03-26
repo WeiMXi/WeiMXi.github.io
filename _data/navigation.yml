@@ -17,7 +17,7 @@ main:
   - title: "科研课题"
     url: /subjects/
 
-  - title: "论文"
+  - title: "研究进展"
     url: /publications/
 
   - title: "物理软件"
