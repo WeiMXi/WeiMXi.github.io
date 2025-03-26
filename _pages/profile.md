@@ -109,6 +109,7 @@ custom_js: /assets/js/award.js
 * 国家重大科技设施工作委员会科普专家
 * 全国中小学科学教育专家委员会成员
 * 广州市中学生“英才计划”科技特训营导师* 
+* 湖南省衡阳市衡钢中学，科学副校长
 
 ## 代表论著
 
@@ -156,6 +157,7 @@ custom_js: /assets/js/award.js
     <li><a href="https://arxiv.org/abs/2502.10702">Tensor interaction in coherent elastic neutrino-nucleus scattering.</a>  e-Print: 2502.10702 [hep-ph]</li>
     <li><a href="https://arxiv.org/abs/2410.18817">Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE).</a> e-Print: 2410.18817 [hep-ex]</li>
     <li><a href="https://arxiv.org/abs/2408.17114">Design of a CsI(Tl) Calorimeter for Muonium-to-Antimuonium Conversion Experiment, Siyuan Chen, Shihan Zhao, Weizhi Xiong, Ye Tian, Hui Jiang, Jiacheng Ling, Shishe Wang, <b>Jian Tang</b>.</a> <b>Front. Phys.</b>, 2025, 20(3): 035202</li>
+    <li><a href="https://arxiv.org/abs/2408.17114"> Determination of Ultra-trace Levels of 238U, 232Th, and 40K in Polymethyl Methacrylate by ICP-MS, Shunqing Feng, Mengting Li, Wenqin Wang, Xiangyue Wang, Chunhao Huang, Hongtao Liu, <b>Jian Tang</b></a>. <b>Atomic Spectroscopy</b>, 2025,46(1):84-93. </li>
     <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0969806X24006856">Enhancing plastic scintillator performance through advanced injection molding techniques, Jiahao Zhong, Nouman Ali Shah, Jian Zhou, <b>Jian Tang</b>,</a>  <b>Radiation Physics and Chemistry</b>, (2025), 226, 112193.</li>
     <li><a href="https://arxiv.org/abs/2401.00222">Optimization of muonium yield in perforated silica aerogel, Shihan Zhao, <b>Jian Tang</b>.</a> <b>Phys.Rev.D</b> 109 (2024) 7, 072012</li>
     <li><a href="https://link.springer.com/article/10.1007/s41365-024-01442-0">Development of a scintillating-fiber-based beam monitor for the coherent muon-to-electron transition experiment, Xu, Yu and Ning, Yun-Song and Qin, Zhi-Zhen and Teng, Yao and Feng, Chang-Qing and <b>Tang, Jian</b> and Chen, Yu and Fukao, Yoshinori and Mihara, Satoshi and Oishi, Kou.</a> <b>Nucl.Sci.Tech.</b>  35 (2024) 4, 79</li>
