@@ -16,7 +16,7 @@ layout: single
         <div class="col-md-4">
             <h3>网站维护人</h3>
             <p class="lead">
-                <a href="mailto:zhaoww7@mail3.sysu.edu.cn" class="text-decoration-none">iyu</a>
+                <a href="mailto:root@iyu.icu" class="text-decoration-none">iyu</a>
             </p>
         </div>
     </div>
