@@ -130,7 +130,7 @@ custom_js:
     </div>
     <div class="ratio ratio-16x9">
         <video controls>
-            <source src="{{ '/videos/muon.mp4' | relative_url }}" type="video/mp4">
+            <source src="{{ '/videos/muon_200kbps.mp4' | relative_url }}" type="video/mp4">
             <!-- <source src="{{ '/assets/videos/example.webm' | relative_url }}" type="video/webm"> -->
             您的浏览器不支持视频播放。
         </video>
