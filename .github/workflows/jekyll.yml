@@ -51,6 +51,13 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+      - name: Upload for Server Deployment
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-for-server
+          path: _site/
+          retention-days: 1
+
 
   # Deployment job
   deploy:
@@ -63,3 +70,34 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  deploy-to-server:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site-for-server
+          path: _site/
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+          config: |
+            Host ${{ secrets.SSH_HOST }}
+              HostName ${{ secrets.SSH_HOST }}
+              User ${{ secrets.SSH_USER }}
+              Port ${{ secrets.SSH_PORT || '22' }}
+              StrictHostKeyChecking no
+      - name: Rsync Deployment
+        run: |
+          rsync -avz --delete \
+            --exclude='.git*' \
+            --exclude='.github' \
+            -e "ssh -p ${SSH_PORT:-22}" \
+            _site/ \
+            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOY_PATH }}
+        env:
+          SSH_PORT: ${{ secrets.SSH_PORT || '22' }}
