@@ -71,23 +71,22 @@
     }
 </style>
 
-<div>
-    <div class="github-badge my-2">
-        <span class="badge-subject">Copyright</span>
-        <span class="badge-value bg-brightgreen">&copy; {{ "now" | date: "%Y" }}</span>
-    </div>
-    <div class="github-badge my-2">
-        <a href="https://beian.miit.gov.cn" target="_blank" style="text-decoration: none; color: inherit;">
-            <span class="badge-subject">粤ICP备</span>
-            <span class="badge-value bg-lightgrey">2025403829号-1</span>
-        </a>
-    </div>
-    <div class="github-badge my-2">
-        <a href="/sitemap/" style="text-decoration: none; color: inherit;">
-            <span class="badge-subject">站点地图</span>
-            <span class="badge-value bg-blue">Sitemap</span>
-        </a>
-    </div>
+<div class="github-badges-container">
+    <!-- 年份徽章 -->
+    <div class="github-badge my-2"><span class="badge-subject">Copyright</span><span
+            class="badge-value bg-brightgreen">&copy; {{ "now" | date: "%Y" }}</span></div>
+    <!-- 备案号徽章 -->
+    <div class="github-badge my-2"><a href="https://beian.miit.gov.cn" target="_blank"
+            style="text-decoration: none; color: inherit;"><span class="badge-subject">粤ICP备</span><span
+                class="badge-value bg-lightgrey">2025403829号-1</span></a></div>
+    <!-- 公网安备徽章 -->
+    <div class="github-badge my-2"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010502003356"
+            target="_blank" style="text-decoration: none; color: inherit;"><span class="badge-subject">粤公网安备</span><span
+                class="badge-value bg-lightgrey">44010502003356号</span></a></div>
+    <!-- 站点地图徽章 -->
+    <div class="github-badge my-2"><a href="/sitemap/" style="text-decoration: none; color: inherit;"><span
+                class="badge-subject">站点地图</span><span class="badge-value bg-blue">Sitemap</span></a></div>
 </div>
+
 
 <!-- end custom footer snippets -->
