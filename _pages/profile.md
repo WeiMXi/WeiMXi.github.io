@@ -154,13 +154,14 @@ custom_js: /assets/js/award.js
 
 
 <ol>
-    <li><a href="https://arxiv.org/abs/2505.13877">Cosmic Ray Muon Polarization to Facilitate Atmospheric Neutrino Physics </a>  e-Print: 2505.13877 [hep-ph]</li>
-    <li><a href="https://arxiv.org/abs/2503.02305">Anisotropic Lorentz invariance violation in reactor neutrino experiments </a>  e-Print: 2503.02305 [hep-ph]</li>
-    <li><a href="https://arxiv.org/abs/2503.18800">Development of portable cosmic-ray muon detector array for muography</a>  e-Print: 2503.18800 [hep-ph]</li>
-    <li><a href="https://arxiv.org/abs/2504.16590">Testing the Gallium anomaly using Electron-Neutrino Scattering</a>  e-Print: 2504.16590 [hep-ph]</li>
-    <li><a href="https://arxiv.org/abs/2504.21050">High-Precision Physics Experiments at Huizhou Large-Scale Scientific Facilities</a>  e-Print: 2504.21050 [hep-ph]</li>
-    <li><a href="https://arxiv.org/abs/2502.10702">Tensor interaction in coherent elastic neutrino-nucleus scattering.</a>  e-Print: 2502.10702 [hep-ph]</li>
-    <li><a href="https://arxiv.org/abs/2410.18817">Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE).</a> e-Print: 2410.18817 [hep-ex]</li>
+    <li><a href="https://arxiv.org/abs/2505.19777">MuGrid-v2: A novel scintillator detector for multidisciplinary applications,</a>  e-Print: 2505.19777 [physics.ins-det]</li>
+    <li><a href="https://arxiv.org/abs/2505.13877">Cosmic Ray Muon Polarization to Facilitate Atmospheric Neutrino Physics,</a>  e-Print: 2505.13877 [hep-ex]</li>
+    <li><a href="https://arxiv.org/abs/2503.02305">Anisotropic Lorentz invariance violation in reactor neutrino experiments,</a>  e-Print: 2503.02305 [hep-ph]</li>
+    <li><a href="https://arxiv.org/abs/2503.18800">Development of portable cosmic-ray muon detector array for muography,</a>  e-Print: 2503.18800 [physics.ins-det]</li>
+    <li><a href="https://arxiv.org/abs/2504.16590">Testing the Gallium anomaly using Electron-Neutrino Scattering,</a>  e-Print: 2504.16590 [hep-ph]</li>
+    <li><a href="https://arxiv.org/abs/2504.21050">High-Precision Physics Experiments at Huizhou Large-Scale Scientific Facilities,</a>  e-Print: 2504.21050 [hep-ph]</li>
+    <li><a href="https://arxiv.org/abs/2502.10702">Tensor interaction in coherent elastic neutrino-nucleus scattering,</a>  e-Print: 2502.10702 [hep-ph]</li>
+    <li><a href="https://arxiv.org/abs/2410.18817">Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE),</a> e-Print: 2410.18817 [hep-ex]</li>
     <li><a href="https://arxiv.org/abs/2408.17114">Design of a CsI(Tl) Calorimeter for Muonium-to-Antimuonium Conversion Experiment, Siyuan Chen, Shihan Zhao, Weizhi Xiong, Ye Tian, Hui Jiang, Jiacheng Ling, Shishe Wang, <b>Jian Tang</b>.</a> <b>Front. Phys.</b>, 2025, 20(3): 035202</li>
     <li><a href="https://www.at-spectrosc.com/as/article/abstract/2024285"> Determination of Ultra-trace Levels of 238U, 232Th, and 40K in Polymethyl Methacrylate by ICP-MS, Shunqing Feng, Mengting Li, Wenqin Wang, Xiangyue Wang, Chunhao Huang, Hongtao Liu, <b>Jian Tang</b></a>. <b>Atomic Spectroscopy</b>, 2025,46(1):84-93. </li>
     <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0969806X24006856">Enhancing plastic scintillator performance through advanced injection molding techniques, Jiahao Zhong, Nouman Ali Shah, Jian Zhou, <b>Jian Tang</b>,</a>  <b>Radiation Physics and Chemistry</b>, (2025), 226, 112193.</li>
