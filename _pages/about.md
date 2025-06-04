@@ -264,6 +264,28 @@ Am I content? — No, and I hope I never will be.The day you wake up and everyth
                     </div>
                 </a>
             </div>
+            <!-- 友情链接 7 -->
+            <div class="col-md-3 col-sm-6 mb-4">
+                <a href="https://www.impcas.ac.cn/" target="_blank" class="text-decoration-none">
+                    <div class="card h-100 text-center">
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                            <h3 class="card-text" style="margin: 0;">中国科学院近代物理研究所</h3>
+                            <!-- <p class="card-text">这是一个友情链接的描述。</p> -->
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <!-- 友情链接 8 -->
+            <div class="col-md-3 col-sm-6 mb-4">
+                <a href="https://tdli.sjtu.edu.cn/" target="_blank" class="text-decoration-none">
+                    <div class="card h-100 text-center">
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                            <h3 class="card-text" style="margin: 0;">李政道研究所</h3>
+                            <!-- <p class="card-text">这是一个友情链接的描述。</p> -->
+                        </div>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 
