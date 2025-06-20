@@ -1,3 +1,33 @@
+- id: 62
+  year: 2025
+  name: CHEN Qinggui
+  destination: "研究生：中山大学物理学院"
+
+- id: 61
+  year: 2025
+  name: LIU Zhirui
+  destination: "研究生：中山大学物理学院"
+    
+- id: 60
+  year: 2025
+  name: HUANG Yinyuan
+  destination: "研究生：中山大学物理学院"
+    
+- id: 59
+  year: 2025
+  name: LI Yuye
+  destination: "研究生：香港科技大学"
+    
+- id: 58
+  year: 2025
+  name: LIU Hesheng
+  destination: "研究生：德国多特蒙德大学"
+    
+- id: 57
+  year: 2025
+  name: LIN Haixing
+  destination: "博士：华中师范大学"
+
 - id: 56
   year: 2024
   name: YUAN Yi
@@ -5,7 +35,7 @@
 
 - id: 55
   year: 2024
-  name: FENG ChenCheng
+  name: FENG Chencheng
   destination: "直博生：北京大学物理学院"
 
 - id: 54
