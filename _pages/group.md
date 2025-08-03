@@ -122,24 +122,9 @@ layout: single
             <div class="card mb-4">
                 <div class="card-body text-center">
                     <h3 class="card-title mt-2">缪子成像仪及其多学科应用</h3>
-                    <p class="card-text">徐恒烨<br>姚赞杰</p>
+                    <p class="card-text">姚赞杰</p>
                 </div>
             </div>
-            <!-- 本科毕业论文 -->
-            <div class="card mb-4">
-                <div class="card-body text-center">
-                    <h3 class="card-title mt-2">本科毕业论文</h3>
-                    <p class="card-text">
-                        刘和生<br>
-                        黄胤元<br>
-                        陈庆桂<br>
-                        刘智睿<br>
-                        李禹烨<br>
-                        曾忠杰（交换生）
-                    </p>
-                </div>
-            </div>
-        </div>
         <!-- 右边列 -->
         <div class="col-md-6">
             <!-- 缪子和中微子联合分析 -->
@@ -147,7 +132,6 @@ layout: single
                 <div class="card-body text-center">
                     <h3 class="card-title mt-2">缪子和中微子联合分析</h3>
                     <p class="card-text">
-                        刘和生<br>
                         张景颐<br>
                         冼 亮
                     </p>
