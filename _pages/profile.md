@@ -154,6 +154,7 @@ custom_js: /assets/js/award.js
 
 
 <ol>
+    <li><a href="https://arxiv.org/abs/2508.07922">Positron Transport System for Muonium-to-Antimuonium Conversion Experiment,</a> e-Print: 2508.07922 [hep-ex]</li>
     <li><a href="https://arxiv.org/abs/2505.19777">MuGrid-v2: A novel scintillator detector for multidisciplinary applications,</a>  e-Print: 2505.19777 [physics.ins-det]</li>
     <li><a href="https://arxiv.org/abs/2505.13877">Cosmic Ray Muon Polarization to Facilitate Atmospheric Neutrino Physics,</a>  e-Print: 2505.13877 [hep-ex]</li>
     <li><a href="https://arxiv.org/abs/2503.02305">Anisotropic Lorentz invariance violation in reactor neutrino experiments,</a>  e-Print: 2503.02305 [hep-ph]</li>

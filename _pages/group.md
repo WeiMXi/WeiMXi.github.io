@@ -122,8 +122,9 @@ layout: single
             <div class="card mb-4">
                 <div class="card-body text-center">
                     <h3 class="card-title mt-2">缪子成像仪及其多学科应用</h3>
-                    <p class="card-text">姚赞杰</p>
+                    <p class="card-text">姚赞杰</p>徐恒烨
                 </div>
+            </div>
             </div>
         <!-- 右边列 -->
         <div class="col-md-6">
