@@ -89,7 +89,7 @@ layout: single
         <div class="col-md-6">
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 袁 意（2024.9—now）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 高睿萱（2023.9—now）</p>
-            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 林海星（2022.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 林海星（2022.9—2025.7）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 钟嘉豪（2021.9-2024.7）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 王湘粤（2017.9-2022.7）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 张依兵（2015.9-2018.7）</p>
