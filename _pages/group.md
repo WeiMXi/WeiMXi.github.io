@@ -70,11 +70,13 @@ layout: single
     <div class="row">
         <!-- 左边列 -->
         <div class="col-md-6">
-            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 陈思远（2023.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 袁 意（2024.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 赵诗涵（2023.9—now）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 孙铭辰（2022.9—now）</p>
         </div>
         <!-- 右边列 -->
         <div class="col-md-6">
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 陈思远（2023.9—now）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 宁云松（2022.9—now）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 张炳隆（2021.9—now）</p>
         </div>
@@ -87,17 +89,17 @@ layout: single
     <div class="row">
         <!-- 左边列 -->
         <div class="col-md-6">
-            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 袁 意（2024.9—now）</p>
-            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 高睿萱（2023.9—now）</p>
-            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 林海星（2022.9—2025.7）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 黄胤元（2025.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 祁颂然（2024.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 林海星（2022.9-2025.7）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 钟嘉豪（2021.9-2024.7）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 王湘粤（2017.9-2022.7）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 张依兵（2015.9-2018.7）</p>
         </div>
         <!-- 右边列 -->
         <div class="col-md-6">
-            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 祁颂然（2024.9—now）</p>
-            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 赵诗涵（2023.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 白爱毓（2025.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 高睿萱（2023.9—now）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 胡碧莹（2021.9-2024.7）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 黄春豪（2016.9-2020.7）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 罗 光（2016.9-2020.7）</p>
@@ -118,30 +120,34 @@ layout: single
                     <p class="card-text">鲁桂昊</p>
                 </div>
             </div>
-            <!-- 缪子成像仪及其多学科应用 -->
+            <!-- 缪子探测及其多学科应用 -->
             <div class="card mb-4">
                 <div class="card-body text-center">
-                    <h3 class="card-title mt-2">缪子成像仪及其多学科应用</h3>
-                    <p class="card-text">姚赞杰</p>徐恒烨
+                    <h3 class="card-title mt-2">缪子探测及其多学科应用</h3>
+                    <p class="card-text">
+                        谢家宪<br>
+                        徐恒烨<br>
+                        周若非
+                    </p>
                 </div>
             </div>
             </div>
         <!-- 右边列 -->
         <div class="col-md-6">
-            <!-- 缪子和中微子联合分析 -->
+            <!-- 粒子自旋及其物理研究 -->
             <div class="card mb-4">
                 <div class="card-body text-center">
-                    <h3 class="card-title mt-2">缪子和中微子联合分析</h3>
+                    <h3 class="card-title mt-2">粒子自旋及其物理研究</h3>
                     <p class="card-text">
                         张景颐<br>
                         冼 亮
                     </p>
                 </div>
             </div>
-            <!-- 寻找缪子相关新物理 -->
+            <!-- 轻子味物理研究 -->
             <div class="card mb-4">
                 <div class="card-body text-center">
-                    <h3 class="card-title mt-2">寻找缪子相关新物理</h3>
+                    <h3 class="card-title mt-2">轻子味物理研究</h3>
                     <p class="card-text">
                         王志超<br>
                         江 昊
