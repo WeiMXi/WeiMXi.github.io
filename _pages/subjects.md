@@ -47,7 +47,9 @@ layout: single
     <!-- 正反缪子素转化实验MACE -->
     <div class="card mb-5">
         <div class="card-body">
-            <h2 class="card-title mt-1">正反缪子素转化实验MACE</h2>
+            <a href="/additionalPages/mace/" class="" aria-current="true">
+<h2 class="card-title mt-1">正反缪子素转化实验MACE</h2>
+</a>
             <p class="card-text">
                 加速器束流的设计与模拟<br>
                 高精度磁谱仪的设计与验证<br>
