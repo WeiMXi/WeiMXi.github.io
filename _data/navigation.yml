@@ -20,6 +20,9 @@ main:
   - title: "研究进展"
     url: /publications/
 
+  - title: "MACE实验"
+    url: /additionalPages/mace/
+
   - title: "物理软件"
     url: /softwares/
 
