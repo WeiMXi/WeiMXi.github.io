@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "MACE：正反缪子素转化实验"
-permalink: /additionalPages/mace
+permalink: /additionalPages/mace/
 author_profile: true
 ---
 
