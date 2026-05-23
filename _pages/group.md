@@ -53,7 +53,7 @@ layout: single
     <div class="row">
         <!-- 左边列 -->
         <div class="col-md-6">
-            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> Norman（2023.3—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> Norman（2023.3—2026.3）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> Sampsa Vihonen（2019.5-2022.4）</p>
         </div>
         <!-- 右边列 -->
