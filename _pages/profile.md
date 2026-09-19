@@ -154,6 +154,8 @@ custom_js: /assets/js/award.js
 
 
 <ol>
+    <li><a href="https://doi.org/10.1038/s41567-026-03435-9">An intense superthermal muonium beam,</a> <b>Jian Tang</b> & Shihan Zhao. <b>Nature Physics</b> News & Views (2026).</li>
+    <li><a href="https://arxiv.org/abs/2606.03397">Three-dimensional density and air-rock interface reconstruction with muography: Application to the TianQin tunnel,</a> Songran Qi, Tao Yu, Shihan Zhao, Yunsong Ning, Aiyu Bai, Yu Chen, Yi Yuan, Mingchen Sun, Zhirui Liu, Liang Xian, Hengye Xu, Hao Jiang, Zhichao Wang, Shuhang Zhang, Su Zhan, <b>Jian Tang</b>  e-Print: 2606.03397 [physics.ins-det], accepted by <b>Journal of Applied Physics</b>.</li>
     <li><a href="https://arxiv.org/abs/2508.07922">Positron Transport System for Muonium-to-Antimuonium Conversion Experiment,</a> e-Print: 2508.07922 [hep-ex]</li>
     <li><a href="https://arxiv.org/abs/2505.19777">MuGrid-v2: A novel scintillator detector for multidisciplinary applications,</a> Tao Yu, Yunsong Ning, Yi Yuan, Shihan Zhao, Songran Qi, Minchen Sun, Yuye Li, Zhirui Liu, Aiyu Bai, Hesheng Liu, Yibo Lin, Geng Tuo, Ting On Chan, Zhou Zhou, Yu Chen, <b>Jian Tang</b>  e-Print: 2505.19777 [physics.ins-det], <b>Journal of Applied Physics</b> 138, 024501 (2025)</li>
     <li><a href="https://arxiv.org/abs/2505.13877">Cosmic Ray Muon Polarization to Facilitate Atmospheric Neutrino Physics,</a>  e-Print: 2505.13877 [hep-ex]</li>
