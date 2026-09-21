@@ -91,13 +91,30 @@ jobs:
               User ${{ secrets.SSH_USER }}
               Port ${{ secrets.SSH_PORT || '22' }}
               StrictHostKeyChecking no
-      - name: Rsync Deployment
+      - name: Deploy via SFTP (lftp)
         run: |
-          rsync -avz --delete \
-            --exclude='.git*' \
-            --exclude='.github' \
-            -e "ssh -p ${SSH_PORT:-22}" \
-            _site/ \
-            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOY_PATH }}
+          sudo apt-get update && sudo apt-get install -y lftp
+          lftp -d << EOF
+          set sftp:auto-confirm yes
+          set sftp:connect-program "ssh -a -x -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no"
+          set net:timeout 15
+          set net:max-retries 3
+          set cmd:fail-exit yes
+          open -u "${SSH_USER}," -p "${SSH_PORT}" "sftp://${SSH_HOST}"
+          echo "=== Initial Remote Directory ==="
+          pwd
+          ls -la
+          echo "=== Entering DEPLOY_PATH ==="
+          cd "${DEPLOY_PATH}"
+          pwd
+          lcd _site
+          mirror -R --verbose --no-perms \
+            --exclude-glob '.git*' \
+            --exclude-glob '.github*'
+          quit
+          EOF
         env:
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_USER: ${{ secrets.SSH_USER }}
           SSH_PORT: ${{ secrets.SSH_PORT || '22' }}
+          DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
