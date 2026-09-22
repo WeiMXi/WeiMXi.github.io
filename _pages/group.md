@@ -78,7 +78,7 @@ layout: single
         <div class="col-md-6">
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 陈思远（2023.9—now）</p>
             <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 宁云松（2022.9—now）</p>
-            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 张炳隆（2021.9—now）</p>
+            <p class="team-member mb-2"><i class="bi bi-person-fill"></i> 张炳隆（2021.9—2026.7）</p>
         </div>
     </div>
 </div>
